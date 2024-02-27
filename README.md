@@ -15,11 +15,3 @@ Feel free to reach out to me at william.requiniva@gmail.com. I'm always open to 
 Did you know? GitHub was originally known as Logical Awesome LLC. Quite a journey, isn't it?
 
 Thanks for stopping by!
-
-Here are some ideas to get you started:
-
-
-**- 👯 I’m looking to collaborate on ...
-**- 🤔 I’m looking for help with ...
-**- 💬 Ask me about ...
--->
